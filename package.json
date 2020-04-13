@@ -1,0 +1,67 @@
+{
+  "_args": [
+    [
+      "scandit-react-native@5.14.4",
+      "/Users/john/Desktop/WorkbookGraphQL"
+    ]
+  ],
+  "_from": "scandit-react-native@5.14.4",
+  "_id": "scandit-react-native@5.14.4",
+  "_inBundle": false,
+  "_integrity": "sha512-lRUQQa0r494AA8xtXTpRMwYSfg0zjZlVWzVMUIVny0FyU+ExeiUQe9so8UoVf7vxUn43QWtEs5r/QtfXgcjX+g==",
+  "_location": "/scandit-react-native",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "version",
+    "registry": true,
+    "raw": "scandit-react-native@5.14.4",
+    "name": "scandit-react-native",
+    "escapedName": "scandit-react-native",
+    "rawSpec": "5.14.4",
+    "saveSpec": null,
+    "fetchSpec": "5.14.4"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/scandit-react-native/-/scandit-react-native-5.14.4.tgz",
+  "_spec": "5.14.4",
+  "_where": "/Users/john/Desktop/WorkbookGraphQL",
+  "author": {
+    "name": "Scandit",
+    "email": "support@scandit.com"
+  },
+  "bugs": {
+    "url": "https://github.com/Scandit/barcodescanner-sdk-react-native/issues"
+  },
+  "dependencies": {},
+  "description": "Scandit Barcode Scanner SDK for React Native",
+  "homepage": "https://scandit.com",
+  "keywords": [
+    "scandit",
+    "barcode",
+    "scan",
+    "scanning",
+    "code",
+    "react",
+    "native",
+    "react-native",
+    "sdk"
+  ],
+  "license": "SEE LICENSE IN LICENSE",
+  "name": "scandit-react-native",
+  "nativePackage": true,
+  "peerDependencies": {
+    "react": ">=16.6.3",
+    "react-native": ">=0.58.0",
+    "prop-types": ">15.5"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Scandit/barcodescanner-sdk-react-native.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "5.14.4"
+}
